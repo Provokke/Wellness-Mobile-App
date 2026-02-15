@@ -28,57 +28,6 @@ A modern, intuitive web-based wellness app built with React and deployed on Verc
 
 ---
 
-## 📁 Project Structure
-
-/src
-
-├── components/ # Reusable UI components
-
-├── pages/ # App pages and routing
-
-├── styles/ # Styling
-
-├── utils/ # Helper functions
-
-├── assets/ # Images & icons
-
-
-
----
-
-## 🔧 Installation
-
-Clone the repo:
-
-git clone https://github.com/Provokke/wellness-app
-cd wellness-app
-
-
-Install dependencies:
-
-npm install
-
-
-Run the dev server:
-
-npm run dev
-
-
-Open in browser:
-
-http://localhost:3000
-
-
----
-
-## 📈 Deployment
-
-Optimized for Vercel.
-
-1. Push to GitHub  
-2. Import repo into Vercel  
-3. Automatic builds & deploys  
-
 Live Site:
 https://wellness-app-mauve.vercel.app/
 
@@ -91,12 +40,6 @@ https://wellness-app-mauve.vercel.app/
 - Progress analytics
 - Reminders & notifications
 - Mobile app version
-
----
-
-## 💬 Feedback
-
-Pull requests and issues are welcome.
 
 ---
 
