@@ -31,11 +31,17 @@ A modern, intuitive web-based wellness app built with React and deployed on Verc
 ## 📁 Project Structure
 
 /src
+
 ├── components/ # Reusable UI components
+
 ├── pages/ # App pages and routing
+
 ├── styles/ # Styling
+
 ├── utils/ # Helper functions
+
 ├── assets/ # Images & icons
+
 
 
 ---
